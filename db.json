@@ -1,20 +1,11 @@
 {
-  "Hero0": [
-    {
-      "id": 0,
-      "title": "The Deep"
-    }
-  ],
- "Hero1": [
+  "posts": [
     {
       "id": 1,
-      "title": "The Homelander"
+      "title": "hello"
     }
   ],
-  "Hero2: [
-    {
-      "id": 2,
-      "title": "A-TRAIN"
-    }
-  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
