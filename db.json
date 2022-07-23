@@ -1,0 +1,20 @@
+{
+  "Hero0": [
+    {
+      "id": 0,
+      "title": "The Deep"
+    }
+  ],
+ "Hero1": [
+    {
+      "id": 1,
+      "title": "The Homelander"
+    }
+  ],
+  "Hero2: [
+    {
+      "id": 2,
+      "title": "A-TRAIN"
+    }
+  ],
+}
